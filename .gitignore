@@ -1,0 +1,14 @@
+# Zona de trabajo temporal (generada por exam.sh)
+rendu/
+
+# Ejecutables compilados
+*.o
+*.a
+*.out
+a.out
+
+# Archivos de sistema
+.DS_Store
+*.swp
+*.swo
+*~
