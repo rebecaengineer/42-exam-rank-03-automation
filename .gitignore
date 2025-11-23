@@ -1,5 +1,6 @@
 # Zona de trabajo temporal (generada por exam.sh)
 rendu/
+exam_progress/
 
 # Ejecutables compilados
 *.o
