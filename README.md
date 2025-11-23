@@ -49,16 +49,6 @@ cd 42-exam-rank-03-automation
 
 ---
 
-## 🚀 Inicio Rápido
-
-```bash
-./exam.sh
-```
-
-El sistema te guiará a través de ejercicios aleatorios o específicos, validará automáticamente tus soluciones y mantendrá registro de tu progreso.
-
----
-
 ## 📦 **Estructura del Proyecto**
 
 ```
@@ -198,7 +188,7 @@ El sistema te guiará a través de ejercicios aleatorios o específicos, validar
 ### **🔬 Comparativas y Estrategias**
 | Documento | Descripción |
 |-----------|-------------|
-| **[Comparativa powerset_vs_permutations.md](rendu3/Comparativa%20powerset_vs_permutations.md)** | 🎭 Cuándo usar máscaras vs recursión, checklist para el examen |
+| **[Comparativa powerset_vs_permutations.md](<rendu3/Comparativa powerset_vs_permutations.md>)** | 🎭 Cuándo usar máscaras vs recursión, checklist para el examen |
 | **[EXPLICACION_BACKTRACKING.md](rendu3/powerset/EXPLICACION_BACKTRACKING.md)** | 🔄 Explicación detallada de backtracking aplicado a powerset |
 
 ---
@@ -444,4 +434,8 @@ Este proyecto está bajo una licencia de código abierto para propósitos educat
 
 ---
 
-Made with ❤️ by rebecaengineer - estudiante de 42 School
+<div align="center">
+
+**Made with ❤️ by [rebecaengineer](https://github.com/rebecaengineer) - estudiante de 42 School**
+
+</div>
